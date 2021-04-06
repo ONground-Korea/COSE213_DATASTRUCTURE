@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: "struct QUEUE * __cdecl createQueue(void)" (?createQueue@@YAPAUQUEUE@@XZ) 외부 기호(참조 위치: "int __cdecl hotdogsSold(int,int *)" (?hotdogsSold@@YAHHPAH@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "void __cdecl enqueue(struct QUEUE *,void *)" (?enqueue@@YAXPAUQUEUE@@PAX@Z) 외부 기호(참조 위치: "int __cdecl hotdogsSold(int,int *)" (?hotdogsSold@@YAHHPAH@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "void __cdecl dequeue(struct QUEUE *)" (?dequeue@@YAXPAUQUEUE@@@Z) 외부 기호(참조 위치: "int __cdecl hotdogsSold(int,int *)" (?hotdogsSold@@YAHHPAH@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\user\source\repos\자료구조\과제\4.Queue\1_Hotdog1\Debug\1_Hotdog1.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
