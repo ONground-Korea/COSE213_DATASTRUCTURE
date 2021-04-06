@@ -3,8 +3,9 @@ Korea University Dept. of Computer Science & Engineering
 
 COSE213 - Data Structure **[major]**
 
-***Just for my study and record***
-***Do not copy or submit same codes for school***
+<span style="color:#2E6A9F">***Just for my study and record***</span>
+
+<span style="color:red">***Do not copy or submit same codes for school***</span>
 
 ## 1. Assignment
 ```
