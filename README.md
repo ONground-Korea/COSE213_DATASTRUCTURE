@@ -3,6 +3,9 @@ Korea University Dept. of Computer Science & Engineering
 
 COSE213 - Data Structure **[major]**
 
+***Just for my study and record***
+***Do not copy or submit same codes for school***
+
 ## 1. Assignment
 ```
 00. Recursion
