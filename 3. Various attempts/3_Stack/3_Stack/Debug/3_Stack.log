@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\source\repos\자료구조\과제\3.Stack\2020123123_홍길동(1)\1_Brace\main.cpp(42,14): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  stackADT.cpp
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\자료구조\과제\3.Stack\2020123123_홍길동(1)\1_Brace\stackADT.cpp(6): error C4716: 'createStack': 값을 반환해야 합니다.
+C:\Users\user\source\repos\자료구조\과제\3.Stack\2020123123_홍길동(1)\1_Brace\stackADT.cpp(27): error C4716: 'stackTop': 값을 반환해야 합니다.
+C:\Users\user\source\repos\자료구조\과제\3.Stack\2020123123_홍길동(1)\1_Brace\main.cpp(60): error C4716: 'braceCheck': 값을 반환해야 합니다.

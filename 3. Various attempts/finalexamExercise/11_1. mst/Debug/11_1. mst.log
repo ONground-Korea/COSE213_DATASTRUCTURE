@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\11_1. mst\main.c(108,6): warning C4101: 'uset' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\11_1. mst\main.c(108,12): warning C4101: 'vset' :참조되지 않은 지역 변수입니다.
+  11_1. mst.vcxproj -> C:\Users\user\source\repos\자료구조\연습\finalexamExercise\Debug\11_1.mst.exe

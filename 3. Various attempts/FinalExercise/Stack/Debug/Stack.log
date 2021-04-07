@@ -1,0 +1,5 @@
+﻿  stackADT.c
+C:\Users\user\source\repos\자료구조\연습\FinalExercise\Stack\stackADT.c(37,36): warning C4098: 'pushStack': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\source\repos\자료구조\연습\FinalExercise\Stack\stackADT.c(78,35): warning C4047: '=': 'void *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\user\source\repos\자료구조\연습\FinalExercise\Stack\stackADT.c(88,35): warning C4047: '=': 'void *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+  Stack.vcxproj -> C:\Users\user\source\repos\자료구조\연습\FinalExercise\Debug\Stack.exe

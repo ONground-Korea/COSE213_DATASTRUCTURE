@@ -1,0 +1,7 @@
+﻿  main.cpp
+  queueADT.cpp
+  queueADT.h
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\자료구조\연습\4_Queue(2)\queue_array_generic\queueADT.cpp(35): warning C4715: 'enqueue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+Debug\queueADT.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  queue_array_generic.vcxproj -> C:\Users\user\source\repos\자료구조\연습\4_Queue(2)\Debug\queue_array_generic.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+  orderedListADT.c
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\자료구조\연습\FinalExercise\List_generic\orderedListADT.c(258): warning C4716: 'reverse': 값을 반환해야 합니다.
+  List_generic.vcxproj -> C:\Users\user\source\repos\자료구조\연습\FinalExercise\Debug\List_generic.exe

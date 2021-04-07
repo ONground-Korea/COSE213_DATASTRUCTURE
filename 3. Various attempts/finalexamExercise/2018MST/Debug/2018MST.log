@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\2018MST\main.c(14): warning C4716: 'printMST': 값을 반환해야 합니다.
+  2018MST.vcxproj -> C:\Users\user\source\repos\자료구조\연습\finalexamExercise\Debug\2018MST.exe

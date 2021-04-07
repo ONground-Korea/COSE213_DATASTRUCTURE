@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(8.AVL Tree.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  avltreeadt.c
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\8.AVL Tree\avltreeadt.c(7,26): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\8.AVL Tree\avltreeadt.c(99,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\8.AVL Tree\avltreeadt.c(231,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  bstreeadt.c
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\8.AVL Tree\bstreeadt.c(8,34): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\자료구조\연습\finalexamExercise\8.AVL Tree\bstreeadt.c(25,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  코드를 생성하고 있습니다...
+  8.AVL Tree.vcxproj -> C:\Users\user\source\repos\자료구조\연습\finalexamExercise\Debug\08.AVL Tree.exe
