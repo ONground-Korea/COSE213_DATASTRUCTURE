@@ -5,7 +5,7 @@ COSE213 - Data Structure **[major]**
 
 <span style="color:#2E6A9F">***Just for my study and record***</span>
 
-<span style="color:red">***Do not copy or submit same codes for school***</span>
+<span style="color:red">***Do not copy or submit same codes for school assignment***</span>
 
 ## 1. Assignment
 ```
